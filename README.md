@@ -1,6 +1,6 @@
 # Hi there 👋 You are welcome to my Git Profile
-###I am Zisan Ahmed
-![Computer Engineer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/342185641_707070474436422_8244813567420544660_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Pp0bQGu7n7YAX8-h_i5&_nc_ht=scontent.fdac14-1.fna&oh=00_AfDghMtMg4XgROZCWklJHxPTKESwgZIJGQqENGJFSJaZog&oe=6448D5E8)
+![Computer Engineer](https://media.licdn.com/dms/image/D5616AQEvkfRoYBqifg/profile-displaybackgroundimage-shrink_350_1400/0/1681237104554?e=1687392000&v=beta&t=irj_cm55ZXtaFAOPS-RLqjhn0i9-PLT6gH3lIlQkY7A)
+##I am Zisan Ahmed
 #### Computer Engineer
 
 

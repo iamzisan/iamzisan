@@ -25,7 +25,6 @@ Skills: Machine Learning/PHP / C# / JS / HTML / CSS/C++/R/Data Analysis and Data
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamzisan&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamzisan)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=iamzisan)  
 

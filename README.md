@@ -1,5 +1,4 @@
 # Hi there 👋 You are welcome to my Git Profile
-![Computer Engineer](https://media.licdn.com/dms/image/D5616AQEvkfRoYBqifg/profile-displaybackgroundimage-shrink_350_1400/0/1681237104554?e=1687392000&v=beta&t=irj_cm55ZXtaFAOPS-RLqjhn0i9-PLT6gH3lIlQkY7A)
 
 ## I am Zisan Ahmed
 #### Software Engineer

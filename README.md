@@ -9,8 +9,7 @@
 
 ## Data Analyst • Data Science • Machine Learning • Deep Learning • Business Intelligence • Data Visualization • AI • Data-Driven Decision Making • SQL • Big Data • User Experience Research • User Interface Design
 
-##### I’m a passionate Data Science Master’s student at the University of Hertfordshire (UK) with a background in Computer Science and Engineering.
-##### My journey has evolved from software engineering to exploring how data-driven insights can solve real-world problems — from predictive modeling and machine learning to business analytics and visualization.
+##### I’m a passionate Data Science Master’s student at the University of Hertfordshire (UK) with a background in Computer Science and Engineering. My journey has evolved from software engineering to exploring how data-driven insights can solve real-world problems — from predictive modeling and machine learning to business analytics and visualization.
 
 ### 💡 About Me
 

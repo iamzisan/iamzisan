@@ -1,8 +1,5 @@
 # 👋 Hi there, I'm Zisan Ahmed <br>
 
-<p align="center">
-  <img src="https://www.linkedin.com/in/iamzisan/overlay/background-image/" alt="Zisan Ahmed Banner" width="100%">
-</p>
 
 ## Data Analyst • Data Science • Machine Learning • Deep Learning • AI • SQL • Big Data • User Experience Research • User Interface Design
 

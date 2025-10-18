@@ -22,7 +22,6 @@ Skills: Machine Learning/PHP / C# / JS / HTML / CSS/C++/R/Data Analysis and Data
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamzisan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamzisan&show_icons=true)  
 
 
 

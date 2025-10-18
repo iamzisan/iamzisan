@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Zisan Ahmed <br>
-## 🎓 Data Science & Analytics | Machine Learning | AI Enthusiast
+## Data Analyst • Data Science • Machine Learning • Deep Learning • AI • SQL • Big Data • User Experience Research • User Interface Design
 
 I’m a passionate Data Science Master’s student at the University of Hertfordshire (UK) with a background in Computer Science and Engineering.
 My journey has evolved from software engineering to exploring how data-driven insights can solve real-world problems — from predictive modeling and machine learning to business analytics and visualization.
@@ -32,13 +32,20 @@ C++ • PHP • C# • JavaScript • HTML • CSS
 
 #### 📘 Mastering:
 
-Data Mining & Machine Learning
+• Data Mining & Machine Learning
 
-Deep Learning and Neural Networks
+• Deep Learning and Neural Networks
 
-Responsible AI and Ethical Data Practices
+• Responsible AI and Ethical Data Practices
 
-Advanced Data Visualization & Storytelling
+• Advanced Data Visualization & Storytelling
+
+
+###🌐 Let’s Connect
+
+#### 📧 Email: ahmed.zisanahmed@gmail.com
+
+#### 💼 LinkedIn: linkedin.com/in/zisanahmed
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iamzisan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamzisan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iamzisanahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_____zisan_____/)  

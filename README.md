@@ -1,5 +1,5 @@
-#👋 Hi there, I'm Zisan Ahmed
-🎓 Data Science & Analytics | Machine Learning | AI Enthusiast
+# 👋 Hi there, I'm Zisan Ahmed <br>
+## 🎓 Data Science & Analytics | Machine Learning | AI Enthusiast
 
 I’m a passionate Data Science Master’s student at the University of Hertfordshire (UK) with a background in Computer Science and Engineering.
 My journey has evolved from software engineering to exploring how data-driven insights can solve real-world problems — from predictive modeling and machine learning to business analytics and visualization.

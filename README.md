@@ -30,7 +30,7 @@ C++ • PHP • C# • JavaScript • HTML • CSS
 
 ### 🚀 Current Focus
 
-📘 Mastering:
+#### 📘 Mastering:
 
 Data Mining & Machine Learning
 

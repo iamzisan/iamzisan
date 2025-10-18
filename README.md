@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/iamzisan/iamzisan/blob/948e6978aced7c57ab9421d27413fc6bb87de882/Banner.png" alt="Zisan Ahmed Banner" width="100%">
+  <img src="https://github.com/iamzisan/iamzisan/blob/80fdf00c34b67f5141a71c06df93b4f4c7e884ac/Banner.png" alt="Zisan Ahmed Banner" width="100%">
 </p>
 
 

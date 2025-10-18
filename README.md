@@ -9,20 +9,20 @@
 
 ## Data Analyst • Data Science • Machine Learning • Deep Learning • Business Intelligence • Data Visualization • AI • Data-Driven Decision Making • SQL • Big Data • User Experience Research • User Interface Design
 
-I’m a passionate Data Science Master’s student at the University of Hertfordshire (UK) with a background in Computer Science and Engineering.
+##### I’m a passionate Data Science Master’s student at the University of Hertfordshire (UK) with a background in Computer Science and Engineering.
 My journey has evolved from software engineering to exploring how data-driven insights can solve real-world problems — from predictive modeling and machine learning to business analytics and visualization.
 
 ### 💡 About Me
 
-🔭 I’m currently working on Data Science projects involving data mining, predictive modeling, and AI-driven insights
+##### 🔭 I’m currently working on Data Science projects involving data mining, predictive modeling, and AI-driven insights
 
-🌱 I’m currently learning Deep Learning, Natural Language Processing (NLP), and Computer Vision
+##### 🌱 I’m currently learning Deep Learning, Natural Language Processing (NLP), and Computer Vision
 
-👯 I’m open to collaborating on Data Science, Machine Learning, or AI-based research projects
+##### 👯 I’m open to collaborating on Data Science, Machine Learning, or AI-based research projects
 
-📊 I’m exploring how Data Science can be applied in sports, fintech, and business analytics
+##### 📊 I’m exploring how Data Science can be applied in sports, fintech, and business analytics
 
-💬 Ask me about Python, Pandas, Scikit-learn, R, SQL, Power BI, and Machine Learning algorithms
+##### 💬 Ask me about Python, Pandas, Scikit-learn, R, SQL, Power BI, and Machine Learning algorithms
 
 #### 📫 Reach me at: ahmed.zisanahmed@gmail.com
 
@@ -40,13 +40,13 @@ C++ • PHP • C# • JavaScript • HTML • CSS
 
 #### 📘 Mastering:
 
-• Data Mining & Machine Learning
+##### • Data Mining & Machine Learning
 
-• Deep Learning and Neural Networks
+##### • Deep Learning and Neural Networks
 
-• Responsible AI and Ethical Data Practices
+##### • Responsible AI and Ethical Data Practices
 
-• Advanced Data Visualization & Storytelling
+##### • Advanced Data Visualization & Storytelling
 
 
 ### 🌐 Let’s Connect

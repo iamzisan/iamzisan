@@ -4,7 +4,7 @@
 I’m a passionate Data Science Master’s student at the University of Hertfordshire (UK) with a background in Computer Science and Engineering.
 My journey has evolved from software engineering to exploring how data-driven insights can solve real-world problems — from predictive modeling and machine learning to business analytics and visualization.
 
-💡 About Me
+### 💡 About Me
 
 🔭 I’m currently working on Data Science projects involving data mining, predictive modeling, and AI-driven insights
 
@@ -16,19 +16,19 @@ My journey has evolved from software engineering to exploring how data-driven in
 
 💬 Ask me about Python, Pandas, Scikit-learn, R, SQL, Power BI, and Machine Learning algorithms
 
-📫 Reach me at: ahmed.zisanahmed@gmail.com
+#### 📫 Reach me at: ahmed.zisanahmed@gmail.com
 
 ⚡ Fun fact: I’m also a Mime Artist — I love expressing stories through silence!
 
-🧠 Technical Skills
+### 🧠 Technical Skills
 
-Programming & Tools:
+#### Programming & Tools:
 Python • R • SQL • Jupyter Notebook • Power BI • Tableau • Scikit-learn • TensorFlow • NumPy • Pandas • Matplotlib • Seaborn
 
-Previous Experience:
+#### Previous Experience:
 C++ • PHP • C# • JavaScript • HTML • CSS
 
-🚀 Current Focus
+### 🚀 Current Focus
 
 📘 Mastering:
 
